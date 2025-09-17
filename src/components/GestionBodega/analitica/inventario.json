@@ -6,7 +6,8 @@
         "Fecha_ultimo_registri": "2025-09-12T17:41:53.000Z",
         "id_producto": "RS-WGEN-L001",
         "id_bodega": "BOG005",
-        "id_ubicacion": "AC001"
+        "id_ubicacion": "AC001",
+        "Nombre" : "Arroz Integral"
     },
     {
         "id_inventario": 9,
@@ -15,7 +16,8 @@
         "Fecha_ultimo_registri": "2025-09-12T17:02:51.000Z",
         "id_producto": "RS-RGEN-S001",
         "id_bodega": "BOG005",
-        "id_ubicacion": "AC001"
+        "id_ubicacion": "AC001",
+        "Nombre" : "Arroz Blanco"
     },
     {
         "id_inventario": 10,
@@ -24,7 +26,8 @@
         "Fecha_ultimo_registri": "2025-09-12T17:16:16.000Z",
         "id_producto": "RS-MGEN-L001",
         "id_bodega": "BOG005",
-        "id_ubicacion": "AC001"
+        "id_ubicacion": "AC001",
+        "Nombre" : "Arroz Integral"
     },
     {
         "id_inventario": 11,
@@ -33,7 +36,8 @@
         "Fecha_ultimo_registri": "2025-09-12T17:35:21.000Z",
         "id_producto": "RS-CHI-S001",
         "id_bodega": "BOG005",
-        "id_ubicacion": "AC001"
+        "id_ubicacion": "AC001",
+        "Nombre" : "Arroz Chino"
     },
     {
         "id_inventario": 12,
@@ -42,7 +46,8 @@
         "Fecha_ultimo_registri": "2025-09-12T17:16:16.000Z",
         "id_producto": "RS-CGEN-L002",
         "id_bodega": "BOG005",
-        "id_ubicacion": "AC001"
+        "id_ubicacion": "AC001",  
+        "Nombre" : "Arroz Integral"
     },
     {
         "id_inventario": 13,
@@ -51,7 +56,8 @@
         "Fecha_ultimo_registri": "2025-09-12T16:19:11.000Z",
         "id_producto": "RS-CAB-S001",
         "id_bodega": "BOG005",
-        "id_ubicacion": "AC001"
+        "id_ubicacion": "AC001",
+        "Nombre" : "Arroz Cabello"
     },
     {
         "id_inventario": 14,
@@ -60,7 +66,8 @@
         "Fecha_ultimo_registri": "2025-09-12T17:41:53.000Z",
         "id_producto": "RS-BGEN-L001",
         "id_bodega": "BOG005",
-        "id_ubicacion": "AC001"
+        "id_ubicacion": "AC001",
+        "Nombre" : "Arroz Basmati"
     },
   {
     "id_inventario": 15,
@@ -69,7 +76,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:05:10.000Z",
     "id_producto": "BDG-CBL-L001",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Blanco"
   },
   {
     "id_inventario": 16,
@@ -78,7 +86,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:07:31.000Z",
     "id_producto": "BDG-ALM-L002",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Integral"
   },
   {
     "id_inventario": 17,
@@ -87,7 +96,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:12:05.000Z",
     "id_producto": "BDG-ACR-S003",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Acarajé"
   },
   {
     "id_inventario": 18,
@@ -96,7 +106,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:14:40.000Z",
     "id_producto": "BDG-VID-L004",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Vid"
   },
   {
     "id_inventario": 19,
@@ -105,7 +116,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:16:02.000Z",
     "id_producto": "BDG-PLS-G005",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Plenitud"
   },
   {
     "id_inventario": 20,
@@ -123,7 +135,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:22:12.000Z",
     "id_producto": "BDG-HRJ-S007",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Integral"
   },
   {
     "id_inventario": 22,
@@ -132,7 +145,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:25:30.000Z",
     "id_producto": "BDG-PAL-L008",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Paladar"
   },
   {
     "id_inventario": 23,
@@ -141,7 +155,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:28:44.000Z",
     "id_producto": "BDG-EST-S009",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Estrella"
   },
   {
     "id_inventario": 24,
@@ -150,7 +165,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:30:09.000Z",
     "id_producto": "BDG-ZNC-L010",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Zancudo"
   },
   {
     "id_inventario": 25,
@@ -159,7 +175,8 @@
     "Fecha_ultimo_registri": "2025-09-12T18:33:27.000Z",
     "id_producto": "BDG-PTL-S011",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz Patna"
   },
   {
     "id_inventario": 26,
@@ -168,6 +185,7 @@
     "Fecha_ultimo_registri": "2025-09-12T18:36:50.000Z",
     "id_producto": "BDG-PPM-G012",
     "id_bodega": "BOG005",
-    "id_ubicacion": "AC001"
+    "id_ubicacion": "AC001",
+    "Nombre" : "Arroz PPM"
   }
 ]

@@ -1,0 +1,123 @@
+:root{
+  --brand-orange: #FF7A2D;
+  --brand-green:  #00C49F;
+  --brand-blue:   #0088FE;
+  --muted:        #6b7280;
+  --card-shadow:  0 6px 18px rgba(0,0,0,0.06);
+  --border:       #eee;
+  --table-row-hover: #fff7f0;
+}
+
+.analitica-container {
+  padding: 1.5rem;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color: #111827;
+  background: transparent;
+}
+
+
+.analitica-title {
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--brand-blue);
+}
+
+.analitica-loading,
+.analitica-error {
+  padding: 2rem;
+  text-align: center;
+}
+.analitica-error-pre {
+  white-space: pre-wrap;
+  text-align: left;
+  margin-top: 0.5rem;
+  color: #6b2135;
+}
+
+
+.analitica-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+}
+
+.card {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+  border: 1px solid rgba(2,6,23,0.03);
+}
+
+.card-title {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.05rem;
+  color: var(--brand-orange);
+  font-weight: 600;
+}
+
+.chart-container {
+  width: 100%;
+  height: 360px;
+}
+.chart-small {
+  height: 300px;
+}
+.grid-two {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 1rem;
+}
+.pie-card { display: flex; flex-direction: column; }
+.summary-card { display: flex; flex-direction: column; justify-content: flex-start; }
+.table-wrapper {
+  overflow-x: auto;
+}
+.analitica-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.analitica-table thead th {
+  text-align: left;
+  padding: 6px 8px;
+  border-bottom: 1px solid var(--border);
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--brand-blue);
+}
+.analitica-table tbody td {
+  padding: 6px 8px;
+  border-bottom: 1px solid #f6f6f6;
+  font-size: 0.95rem;
+  color: #111827;
+}
+.analitica-table tbody tr:hover {
+  background: linear-gradient(90deg, rgba(255,122,45,0.03), rgba(0,196,159,0.02));
+}
+.text-right { text-align: right; }
+.badge {
+  display: inline-block;
+  padding: 0.18rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #fff;
+  vertical-align: middle;
+}
+.badge--orange { background: var(--brand-orange); }
+.badge--green  { background: var(--brand-green); }
+.badge--blue   { background: var(--brand-blue); }
+.summary-card strong {
+  color: var(--brand-blue);
+}
+.chart-container > div, .chart-container svg {
+ 
+ color: green;
+}
+@media (max-width: 900px) {
+  .grid-two { grid-template-columns: 1fr; }
+  .chart-container { height: 300px; }
+}
