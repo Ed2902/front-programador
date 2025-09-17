@@ -1,0 +1,50 @@
+[
+  {
+    "id_proveedor": "2",
+    "Nombre": "Aluminios Andina S.A.S.",
+    "Correo": "proveedor@aluminiosandina.co",
+    "Telefono": "3101111111",
+    "Fecha_registro": "2025-09-12T18:07:31.000Z",
+    "DocumentoProveedor": null
+  },
+  {
+    "id_proveedor": "3",
+    "Nombre": "Vidrios Laminados S.A.S.",
+    "Correo": "ventas@vidrioslaminados.co",
+    "Telefono": "3102222222",
+    "Fecha_registro": "2025-09-12T18:14:40.000Z",
+    "DocumentoProveedor": null
+  },
+  {
+    "id_proveedor": "4",
+    "Nombre": "Cobre Limpio S.A.S.",
+    "Correo": "comercial@cobrelimpio.co",
+    "Telefono": "3103333333",
+    "Fecha_registro": "2025-09-12T18:19:45.000Z",
+    "DocumentoProveedor": null
+  },
+  {
+    "id_proveedor": "5",
+    "Nombre": "Palets y Maderas S.A.S.",
+    "Correo": "contacto@paletsyMaderas.co",
+    "Telefono": "3104444444",
+    "Fecha_registro": "2025-09-12T18:25:30.000Z",
+    "DocumentoProveedor": null
+  },
+  {
+    "id_proveedor": "6",
+    "Nombre": "Zincos Industriales S.A.S.",
+    "Correo": "info@zincosindustriales.co",
+    "Telefono": "3105555555",
+    "Fecha_registro": "2025-09-12T18:30:09.000Z",
+    "DocumentoProveedor": null
+  },
+  {
+    "id_proveedor": "7",
+    "Nombre": "Polimeros del País S.A.S.",
+    "Correo": "ventas@polimerosdelpais.co",
+    "Telefono": "3106666666",
+    "Fecha_registro": "2025-09-12T18:36:50.000Z",
+    "DocumentoProveedor": null
+  }
+]

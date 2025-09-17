@@ -1,0 +1,173 @@
+[
+    {
+        "id_inventario": 8,
+        "id_lote_producto": "LP-00001",
+        "Cantidad": 3343.4,
+        "Fecha_ultimo_registri": "2025-09-12T17:41:53.000Z",
+        "id_producto": "RS-WGEN-L001",
+        "id_bodega": "BOG005",
+        "id_ubicacion": "AC001"
+    },
+    {
+        "id_inventario": 9,
+        "id_lote_producto": "LP-00003",
+        "Cantidad": 300,
+        "Fecha_ultimo_registri": "2025-09-12T17:02:51.000Z",
+        "id_producto": "RS-RGEN-S001",
+        "id_bodega": "BOG005",
+        "id_ubicacion": "AC001"
+    },
+    {
+        "id_inventario": 10,
+        "id_lote_producto": "LP-00004",
+        "Cantidad": 54.6,
+        "Fecha_ultimo_registri": "2025-09-12T17:16:16.000Z",
+        "id_producto": "RS-MGEN-L001",
+        "id_bodega": "BOG005",
+        "id_ubicacion": "AC001"
+    },
+    {
+        "id_inventario": 11,
+        "id_lote_producto": "LP-00005",
+        "Cantidad": 284,
+        "Fecha_ultimo_registri": "2025-09-12T17:35:21.000Z",
+        "id_producto": "RS-CHI-S001",
+        "id_bodega": "BOG005",
+        "id_ubicacion": "AC001"
+    },
+    {
+        "id_inventario": 12,
+        "id_lote_producto": "LP-00006",
+        "Cantidad": 44,
+        "Fecha_ultimo_registri": "2025-09-12T17:16:16.000Z",
+        "id_producto": "RS-CGEN-L002",
+        "id_bodega": "BOG005",
+        "id_ubicacion": "AC001"
+    },
+    {
+        "id_inventario": 13,
+        "id_lote_producto": "LP-00008",
+        "Cantidad": 72.2,
+        "Fecha_ultimo_registri": "2025-09-12T16:19:11.000Z",
+        "id_producto": "RS-CAB-S001",
+        "id_bodega": "BOG005",
+        "id_ubicacion": "AC001"
+    },
+    {
+        "id_inventario": 14,
+        "id_lote_producto": "LP-00009",
+        "Cantidad": 67,
+        "Fecha_ultimo_registri": "2025-09-12T17:41:53.000Z",
+        "id_producto": "RS-BGEN-L001",
+        "id_bodega": "BOG005",
+        "id_ubicacion": "AC001"
+    },
+  {
+    "id_inventario": 15,
+    "id_lote_producto": "LP-00010",
+    "Cantidad": 120.5,
+    "Fecha_ultimo_registri": "2025-09-12T18:05:10.000Z",
+    "id_producto": "BDG-CBL-L001",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 16,
+    "id_lote_producto": "LP-00011",
+    "Cantidad": 85,
+    "Fecha_ultimo_registri": "2025-09-12T18:07:31.000Z",
+    "id_producto": "BDG-ALM-L002",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 17,
+    "id_lote_producto": "LP-00012",
+    "Cantidad": 200,
+    "Fecha_ultimo_registri": "2025-09-12T18:12:05.000Z",
+    "id_producto": "BDG-ACR-S003",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 18,
+    "id_lote_producto": "LP-00013",
+    "Cantidad": 350,
+    "Fecha_ultimo_registri": "2025-09-12T18:14:40.000Z",
+    "id_producto": "BDG-VID-L004",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 19,
+    "id_lote_producto": "LP-00014",
+    "Cantidad": 90,
+    "Fecha_ultimo_registri": "2025-09-12T18:16:02.000Z",
+    "id_producto": "BDG-PLS-G005",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 20,
+    "id_lote_producto": "LP-00015",
+    "Cantidad": 140.7,
+    "Fecha_ultimo_registri": "2025-09-12T18:19:45.000Z",
+    "id_producto": "BDG-CBR-L006",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 21,
+    "id_lote_producto": "LP-00016",
+    "Cantidad": 62,
+    "Fecha_ultimo_registri": "2025-09-12T18:22:12.000Z",
+    "id_producto": "BDG-HRJ-S007",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 22,
+    "id_lote_producto": "LP-00017",
+    "Cantidad": 180,
+    "Fecha_ultimo_registri": "2025-09-12T18:25:30.000Z",
+    "id_producto": "BDG-PAL-L008",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 23,
+    "id_lote_producto": "LP-00018",
+    "Cantidad": 48,
+    "Fecha_ultimo_registri": "2025-09-12T18:28:44.000Z",
+    "id_producto": "BDG-EST-S009",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 24,
+    "id_lote_producto": "LP-00019",
+    "Cantidad": 95.3,
+    "Fecha_ultimo_registri": "2025-09-12T18:30:09.000Z",
+    "id_producto": "BDG-ZNC-L010",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 25,
+    "id_lote_producto": "LP-00020",
+    "Cantidad": 33,
+    "Fecha_ultimo_registri": "2025-09-12T18:33:27.000Z",
+    "id_producto": "BDG-PTL-S011",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  },
+  {
+    "id_inventario": 26,
+    "id_lote_producto": "LP-00021",
+    "Cantidad": 410.2,
+    "Fecha_ultimo_registri": "2025-09-12T18:36:50.000Z",
+    "id_producto": "BDG-PPM-G012",
+    "id_bodega": "BOG005",
+    "id_ubicacion": "AC001"
+  }
+]

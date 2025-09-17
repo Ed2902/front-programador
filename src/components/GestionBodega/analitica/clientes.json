@@ -1,0 +1,50 @@
+[
+  {
+    "id_Cliente": "CLI001",
+    "Nombre": "Cliente Cableado S.A.S.",
+    "Correo": "contacto@clientecableado.co",
+    "Celular": "3000000001",
+    "Fecha_registro": "2025-09-12T18:05:10.000Z",
+    "DocumentoCliente": null
+  },
+  {
+    "id_Cliente": "CLI002",
+    "Nombre": "Acrilicos del Centro S.A.S.",
+    "Correo": "ventas@acrilicoscentro.co",
+    "Celular": "3000000002",
+    "Fecha_registro": "2025-09-12T18:12:05.000Z",
+    "DocumentoCliente": null
+  },
+  {
+    "id_Cliente": "CLI003",
+    "Nombre": "Plasticos Andinos S.A.S.",
+    "Correo": "comercial@plasticosandinos.co",
+    "Celular": "3000000003",
+    "Fecha_registro": "2025-09-12T18:16:02.000Z",
+    "DocumentoCliente": null
+  },
+  {
+    "id_Cliente": "CLI004",
+    "Nombre": "Herramientas del Norte S.A.S.",
+    "Correo": "info@herramientasnorte.co",
+    "Celular": "3000000004",
+    "Fecha_registro": "2025-09-12T18:22:12.000Z",
+    "DocumentoCliente": null
+  },
+  {
+    "id_Cliente": "CLI005",
+    "Nombre": "Estanterias Colombia S.A.S.",
+    "Correo": "contacto@estanteriascolombia.co",
+    "Celular": "3000000005",
+    "Fecha_registro": "2025-09-12T18:28:44.000Z",
+    "DocumentoCliente": null
+  },
+  {
+    "id_Cliente": "CLI006",
+    "Nombre": "Perfiles Livianos S.A.S.",
+    "Correo": "ventas@perfileslivianos.co",
+    "Celular": "3000000006",
+    "Fecha_registro": "2025-09-12T18:33:27.000Z",
+    "DocumentoCliente": null
+  }
+]
